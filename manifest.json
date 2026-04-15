@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Descans Visual",
+  "version": "1.0",
+  "description": "Extensió Firefox amb cronòmetre de descans i visualització abstracta del temps.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Descans Visual"
+  }
+}
